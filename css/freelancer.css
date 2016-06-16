@@ -37,7 +37,8 @@ h6 {
 }
 
 hr.star-light,
-hr.star-primary {
+hr.star-primary,
+hr.star-blue {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -47,7 +48,8 @@ hr.star-primary {
 }
 
 hr.star-light:after,
-hr.star-primary:after {
+hr.star-primary:after,
+hr.star-blue:after {
     content: "\f005";
     display: inline-block;
     position: relative;
@@ -73,6 +75,15 @@ hr.star-primary {
 hr.star-primary:after {
     color: #ffffff;
     background-color: #2C3E50;
+}
+
+hr.star-blue {
+    border-color: #2C3E50;
+}
+
+hr.star-blue:after {
+    color: ##2C3E50;
+    background-color: #ffffff;
 }
 
 .img-centered {
