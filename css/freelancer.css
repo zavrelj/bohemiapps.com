@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #D0021B;
+    color: #ffffff;
 }
 
 h1,
@@ -67,12 +67,12 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #ffffff;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+    color: #ffffff;
+    background-color: #2C3E50;
 }
 
 .img-centered {
@@ -100,6 +100,14 @@ header .intro-text .name {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
+    font-weight: 700;
+}
+
+header .promo-title {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 3em;
     font-weight: 700;
 }
 
@@ -182,6 +190,12 @@ section h2 {
 section.success {
     color: #fff;
     background: #D0021B;
+    padding: 20px 0;
+}
+
+section.promo-text-section {
+    color: #fff;
+    background: #D0021B;
 }
 
 section.success a,
@@ -190,16 +204,17 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #2c3e50;
+    color: #ffffff;
+    text-decoration: underline;
 }
 
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
+        padding: 35px 0;
     }
 
     section.first {
-        padding-top: 75px;
+        padding-top: 35px;
     }
 }
 
@@ -314,11 +329,12 @@ section.success a.active {
     -moz-transition: top .3s ease,opacity .3s ease;
     -ms-transition: top .3s ease,opacity .3s ease;
     transition: top .3s ease,opacity .3s ease;
+    color: #ffffff;
 }
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid #ffffff;
 }
 
 .floating-label-form-group-with-value label {
@@ -327,11 +343,11 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #D0021B;
+    color: #ffffff;
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #ffffff;
 }
 
 footer {
@@ -456,4 +472,39 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+.top-logo {
+    margin-top: 10px;
+}
+
+
+#mc-embedded-subscribe-form {
+  display: block;
+  width: 100%;
+  height: 45px;
+  padding: 10px 15px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #2c3e50;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #dce4ec;
+  border-radius: 4px;
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+#mc_embed_signup {
+  /* background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%; */
+}
+
+#mce-EMAIL {
+  color: #ffffff;
+}
+
+.submit_button {
+  display: inline;
+  float: none;
 }
