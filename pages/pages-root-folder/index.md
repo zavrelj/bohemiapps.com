@@ -16,13 +16,13 @@ widget2:
   title: "Learn2Earn"
   url: 'https://youtu.be/5bl2itrW2RU'
   image: widget-learn2earn-302x170.png
-  text: 'We are thrilled to present you our new initiative. We are in the process of setting up BOHEMIAPPS university where we will offer ways of learning stuff that can transform to money for our students. Learn2Earn will bring only those articles and lecture that will have this very straight focus. Tell us what you think via Twitter <a href="http://twitter.com/bohemiapps">@bohemiapps</a>.'
+  text: 'We are thrilled to present you our new initiative. We are in the process of setting up BOHEMIAPPS UNIVERSITY where we will offer ways of learning stuff that can be transformed to money for our students. Learn2Earn will bring only those articles and lectures that will have this very straight focus. Tell us what you think via Twitter <a href="http://twitter.com/bohemiapps">@bohemiapps</a>.'
 widget3:
-  title: "Reuse your work using references"
+  title: "Xcode lectures"
   url: '#'
   image: widget-xcode-302x170.png
   #cannot use ' inside text or it crashes, have to use &apos;
-  text: 'It&apos;s always good to save some time. In this article, we will take a look at Xcode&apos;s scene references as a tool to reuse your work.'
+  text: 'We are working on new Xcode series. Stay tuned for more info.'
 #
 # Use the call for action to show a button on the frontpage
 #
