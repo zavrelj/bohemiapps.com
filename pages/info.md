@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "BOHEMIAPPS official website"
+subheadline: ""
 teaser: "BOHEMIAPPS started as a simple project for iOS development."
 permalink: "/info/"
 header:
