@@ -113,6 +113,12 @@
           
           
         
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -127,6 +133,21 @@
             
             
               <li><a href="/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="/learn2earn/">Learn2Earn</a></li>
               <li class="divider"></li>
 
             
@@ -278,7 +299,9 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
+                <h5 class="shadow-black">Credits</h5>
+              
+            
               
             
               
@@ -295,6 +318,11 @@
               
                 <li >
                   <a href=""  title=""></a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="http://phlow.github.io/feeling-responsive/" target="_blank"  title="Template by Phlow">Based on Feeling Responsive</a>
                 </li>
             
               
@@ -327,7 +355,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://jan.zavrel.net">Jan Zavrel</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; by <a href="http://jan.zavrel.net">Jan Zavrel</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">

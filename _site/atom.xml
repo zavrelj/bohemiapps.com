@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>BOHEMIAPPS</title>
-	<updated>2016-06-25T01:22:49+02:00</updated>
+	<updated>2016-06-26T08:36:29+02:00</updated>
 
 	<subtitle>We are giving you the best of our work here for your inpiration.</subtitle>
 
@@ -28,32 +28,38 @@
 
 	
 		<entry>
-			<id>/design/working-hard/</id>
-			<title>BOHEMIAPPS UNIVERSITY IS GETTING SHAPES</title>
-			<link href="/design/working-hard/" rel="alternate" type="text/html" title="BOHEMIAPPS UNIVERSITY IS GETTING SHAPES" />
+			<id>/learn2earn/</id>
+			<title>LEARN2EARN</title>
+			<link href="/learn2earn/" rel="alternate" type="text/html" title="LEARN2EARN" />
 			<updated>2016-06-24T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Jan Zavrel</name>
 					
 					
+					
+						<uri>http://jan.zavrel.net/</uri>
 					
 				</author>
 			
-			<summary>Learn something new every day. Teach others online. Make money. These are three basic ground rules of LEARN2EARN BOHEMIAPPS UNIVERSITY. We are thrilled to have this opportunity. We are working hard to deliver this to you as soon as possible.</summary>
-			<content type="html" xml:base="/design/working-hard/">
+			<summary>Learn something new every day. Teach others online. Make money.</summary>
+			<content type="html" xml:base="/learn2earn/">&lt;p&gt;These are three ground rules of online entrepreneurship. We are thrilled to announce the upcoming launch of Bohemiapps University LEARN2EARN. We are working hard to deliver this to you as soon as possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;LEARN2EARN is a collection of online courses. Setting up your own teaching business can be very easy if you know about the mistakes to avoid, or quite hard if you are doomed to make them all, because there’s nobody steering you through all the pitfalls.&lt;/p&gt;
+
+&lt;p&gt;LEARN2EARN will enable students, soon to be teachers themselves, to avoid all the mistakes I have made along the path, so they don’t have to repeat them.&lt;/p&gt;
+
+&lt;p&gt;I am currently setting everything up. I plan to teach every aspect of online business.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more. Subscribe to LEARN2EARN Newsletter.&lt;/p&gt;
 </content>
 
 			
-				<category term="design" />
-			
-			
-				<category term="teaching" />
-			
-				<category term="courses" />
 			
 
 			<published>2016-06-24T00:00:00+02:00</published>

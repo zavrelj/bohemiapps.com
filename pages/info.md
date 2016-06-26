@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "About"
-subheadline: "Who is behind BOHEMIAPPS"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "BOHEMIAPPS official website"
+teaser: "BOHEMIAPPS started as a simple project for iOS development."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_unsplash_12.png"
 ---
-...and learn at the same time.
+It is constantly growing to online education business.
