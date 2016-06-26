@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Contact"
+title: "Thank you!"
 meta_title: "Contact us"
-subheadline: "Contact us for more information"
-teaser: "Want to get in touch with us? Use the contact form below and we will reach you ASAP."
+subheadline: ""
+teaser: "Your submission has been received."
 permalink: "/contact-thanks/"
 header:
     image_fullwidth: "header_unsplash_12.png"
 ---
-
-Thank you!
