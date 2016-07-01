@@ -34,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/bohemiapps
-  text: Inform me about Discounts & Hot Deals ›
+  url: http://land.bohemiapps.com/handbook
+  text: Get our $10 handbook for FREE ›
   style: alert
 permalink: /index.html
 #
