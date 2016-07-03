@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "How to install Homestead successfully for the first time"
+subheadline: ""
 title: "Laravel/Homestead - the real installation guide"
 teaser: ""
 categories:

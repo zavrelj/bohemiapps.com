@@ -1,0 +1,11 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+
+  <a class="example-image-link" href="{{ site.url }}/{{ include.img }}" data-lightbox="example-2" data-title="{{ include.title }}">
+    <img class="example-image" src="{{ site.url }}/{{ include.img }}" alt="image-1"/>
+  </a>
+
+    {% if include.caption %}
+        <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>
