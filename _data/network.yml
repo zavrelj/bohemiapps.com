@@ -10,6 +10,11 @@
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
+- name: "Graphics by Freepik"
+  url: "http://www.freepik.com/"
+  class: "network-entypo"
+  title: "Graphics by Freepik"
+
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
