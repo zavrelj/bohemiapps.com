@@ -16,9 +16,9 @@ tags:
 #
 header: no
 image:
-    title: laravel-title-636x371.png
+    title: sharepoint-title-636x371.png
     thumb: mediaplayer_js-thumb.jpg
-    homepage: laravel-home-1920x1080.png
+    homepage: sharepoint-home-1920x1080.png
     caption: Homestead
     caption_url: https://www.bohemiapps.com/laravel-homestead-the-real-installation-guide/
 mediaplayer: true
