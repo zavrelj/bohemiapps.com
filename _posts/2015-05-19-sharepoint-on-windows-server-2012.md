@@ -19,7 +19,7 @@ image:
     title: sharepoint-title-636x371.png
     thumb: mediaplayer_js-thumb.jpg
     homepage: sharepoint-home-1920x1080.png
-    caption: Homestead
+    caption: Sharepoint
     caption_url: https://www.bohemiapps.com/laravel-homestead-the-real-installation-guide/
 mediaplayer: true
 ---
