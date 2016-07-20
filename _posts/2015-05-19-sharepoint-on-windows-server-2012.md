@@ -22,6 +22,7 @@ image:
     caption: Sharepoint
     caption_url: https://www.bohemiapps.com/laravel-homestead-the-real-installation-guide/
 mediaplayer: true
+comments: true
 ---
 
 Today we will leave Linux world and jump right into Windows. Let's install SharePoint 2013 (**SP**). It's quite easy and for free. Register to [Dreamspark](https://www.dreamspark.com) service where you can evaluate all sorts of Microsoft's products for 180 days. Download ISO of Windows Server 2012 Datacenter (Standard will work as well) and install it as a virtual machine (**VM**) using VirtualBox or Parallels Desktop or VMware Fusion (google it, if you hear it for the first time). Download [Sharepoint Foundation 2013](https://www.microsoft.com/en-us/download/details.aspx?id=35488).
