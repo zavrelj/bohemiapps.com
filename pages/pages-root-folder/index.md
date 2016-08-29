@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: http://land.bohemiapps.com/handbook
-  text: Get our $10 handbook for FREE ›
+  url: http://skl.sh/2aEf41O
+  text: Get all courses for just $0.99 ›
   style: alert
 permalink: /index.html
 #
