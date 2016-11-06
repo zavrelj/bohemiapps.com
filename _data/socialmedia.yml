@@ -1,18 +1,18 @@
 - name: Facebook
-  url: http://www.facebook.com/bohemiapps
+  url: http://www.facebook.com/zavrelj
   class: icon-facebook
   title: ""
 
 - name: Twitter
-  url: http://twitter.com/bohemiapps
+  url: http://twitter.com/zavrelj
   class: icon-twitter
   title: ""
 
 - name: YouTube
-  url: http://www.youtube.com/bohemiapps
+  url: https://www.youtube.com/channel/UCyWvZ5FvUr6ybFUWfHub0DA
   class: icon-youtube
   title: ""
-  
+
 - name: GitHub
   url: http://github.com/zavrelj
   class: icon-github
