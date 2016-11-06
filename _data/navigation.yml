@@ -2,10 +2,14 @@
   url: "/"
   side: left
 
+- title: Courses
+  url: "https://bohemiapps.teachable.com/"
+  side: left
+
 - title: Smart Profit School
   url: "http://www.smartprofitschool.com/"
   side: left
 
-- title: Courses
-  url: "https://bohemiapps.teachable.com/"
+- title: Virtual Mentorship
+  url: "http://www.zavrel.net/"
   side: left
